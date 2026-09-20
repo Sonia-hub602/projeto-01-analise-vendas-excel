@@ -51,3 +51,6 @@ O projeto completo está disponível no arquivo:
 
 Este projeto permitiu praticar conceitos fundamentais de análise de dados, como organização de informações, criação de indicadores, utilização de tabelas dinâmicas, visualização de dados e interpretação de resultados.
 
+## 📊 Dashboard
+
+![Dashboard de Vendas](imagens/dashboard.png)
